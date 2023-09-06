@@ -12,8 +12,8 @@ pip install tensorflow
 pip install  tensorflow-probability
 pip install gym
 ```
-#jupyter notebook 
+## jupyter notebook 
 
-The Jupyter code for the demo is available [here].(https://colab.research.google.com/drive/1Nodoyf1rzLCcO14FcNHbLVIaONZPtNM1?usp=sharing)
+The Jupyter code for the demo is available [here](https://colab.research.google.com/drive/1Nodoyf1rzLCcO14FcNHbLVIaONZPtNM1?usp=sharing).
 
 ## Results
