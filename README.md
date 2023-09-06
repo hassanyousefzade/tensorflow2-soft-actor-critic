@@ -4,4 +4,4 @@ This is tensorflow 2 implementation of Soft Actor-Critic (SAC) [[ArXiv]](https:/
 
 ## tutorial
 
-this is a good tutorial for teorical understanding for SAC alghoritm.[[tutorial]](https://spinningup.openai.com/en/latest/algorithms/sac.html)
+this is a good tutorial for theoretical understanding for SAC alghoritm.[[tutorial]](https://spinningup.openai.com/en/latest/algorithms/sac.html)
