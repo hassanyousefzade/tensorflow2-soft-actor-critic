@@ -5,3 +5,10 @@ This is tensorflow 2 implementation of Soft Actor-Critic (SAC) [[ArXiv]](https:/
 ## tutorial
 
 This is a good tutorial for gaining a theoretical understanding of the SAC algorithm. You can find the tutorial [here](https://spinningup.openai.com/en/latest/algorithms/sac.html).
+
+## Requirements
+```
+pip install tensorflow 
+pip install  tensorflow-probability
+pip install gym
+```
