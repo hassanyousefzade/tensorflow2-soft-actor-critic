@@ -10,7 +10,7 @@ This is a good tutorial for gaining a theoretical understanding of the SAC algor
 ```
 pip install tensorflow 
 pip install  tensorflow-probability
-pip install gym==0.25.2
+pip install gym == 0.25.2
 ```
 ## jupyter notebook 
 
