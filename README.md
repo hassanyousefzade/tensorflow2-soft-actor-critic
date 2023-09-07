@@ -26,3 +26,4 @@ python train.py --seed 42 --env_name 'MountainCarContinuous-v0' --render False -
 python play.py
 ```
 ## Results
+Average episode reward for environments
