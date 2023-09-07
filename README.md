@@ -18,6 +18,7 @@ The Jupyter code for the demo is available [here](https://colab.research.google.
 
 ## train
 ```
-python train.py --seed --env_name --render --verbose -batch_size --epochs --start_steps --model_path --gamma --polyak --learning_rate --alpha
+python train.py --seed 42 --env_name 'MountainCarContinuous-v0' --render False --verbose Fslse --batch_size 64  --epochs 50
+--start_steps 0 --model_path '../data/models/' --gamma 0.99 --polyak 0.95 --learning_rate 0.001 --alpha 0.2
 ```
 ## Results
