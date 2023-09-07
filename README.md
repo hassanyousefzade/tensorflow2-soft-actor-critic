@@ -31,5 +31,5 @@ example :
 MountainCarContinuous-v0
 
 
-![image](https://github.com/hassanyousefzade/tensorfloew2-soft-actor-critic/assets/48446312/b5bbb342-1899-4edb-a723-cbf7f8060375)
+![image](image.png)
 
